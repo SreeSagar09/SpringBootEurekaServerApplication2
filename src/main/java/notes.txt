@@ -1,0 +1,7 @@
+A Program Netflix Eureka Registry and Discovery:
+Programs:
+SpringBootEurekaServerApplication2Application.java
+Notes:
+
+Output:
+Eureka Server url: http://localhost:8761
