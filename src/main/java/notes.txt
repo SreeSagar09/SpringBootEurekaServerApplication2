@@ -1,6 +1,6 @@
 A Program Netflix Eureka Registry and Discovery:
 Programs:
-SpringBootEurekaServerApplication2Application.java
+* SpringBootEurekaServerApplication2Application.java
 Notes:
 
 Output:
